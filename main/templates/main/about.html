@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block css %}
+    <link rel="stylesheet" href="{% static "deps/css/my_footer_css.css" %}">
+{% endblock %}
+
+{% block modal_cart %}
+{% include "includes/cart_button.html" %}
+{% endblock  %}
+
+{% block content %}
+    <div class="mt-5 bg-white custom-shadow rounded">
+        <div class="container p-4">
+        <h2 class="m-2"><strong>{{ content }}</strong></h2>
+        <p class="m-2">{{ text_on_page }}</p>
+        </div>
+
+    </div>
+    <section class="aboutinfo">
+        <div class="aboutinfo-block">
+          <div class="aboutinfo-number">
+            25+
+          </div>
+          <div class="aboutinfo-subtitle">
+            лет работы компании<br>
+          </div>
+          <p>
+            За&nbsp;годы работы на&nbsp;сеть приобрела большое количество Клиентов, которые оценили качество нашего
+            продукта и
+            уровень сервиса в&nbsp;магазинах.
+          </p>
+        </div>
+        <div class="aboutinfo-block">
+          <div class="aboutinfo-number">
+            100+
+          </div>
+          <div class="about__info-subtitle">
+            более 100 магазинов <br>
+          </div>
+          <p>
+            Сеть объединяет более 100 магазинов под единым брендом Küchenland
+          </p>
+          <p>
+            Помимо сети розничных магазинов для вашего удобства был запущен интернет-магазин.
+          </p>
+        </div>
+      </section>
+</div>
+{% endblock %}
+
+{% block footer %}
+
+{% endblock %}
