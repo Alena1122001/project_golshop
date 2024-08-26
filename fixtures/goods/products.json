@@ -1,97 +1,111 @@
 [
     {
         "model": "goods.products",
-        "pk": 1,
+        "pk": 13,
         "fields": {
-            "name": "Чайный столик и три стула",
-            "slug": "chajnyj-stolik-i-tri-stula",
-            "description": "Комплект из трёх стульев и дизайнерский столик для гостинной комнаты.",
-            "image": "goods_images/set_of_tea_table_and_three_chairs.jpg",
-            "price": "150.00",
-            "discount": "10.00",
-            "quantity": 10,
+            "name": "Тапочки женские, домашние",
+            "slug": "tapochki",
+            "description": "Тапочки женские, домашние, закрытые. Размер: 36-37. Материал: верхняя часть - искусственная замша (100% полиэстер), стелька и подкладка - искусственный мех (100% полиэстер); подошва - ЭВА. Рекомендации по уходу указаны на бирке изделия.",
+            "image": "goods_images/7a28b7c0_aed5_11ee_a062_9440c9a6d57d_13da2fc9_5b21_11ef_858a_00165d0a5906.jpg ",
+            "price": "5000,00",
+            "discount": "5,00",
+            "quantity": 18,
+            "category": 14
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 14,
+        "fields": {
+            "name": "Бюстгальтер Балконет Sofia Pretty Flowers",
+            "slug": "byustgalter-balkonet-sofia-pretty-flowers",
+            "description": "Бюстгальтер балконет Sofia со слегка уплотненными чашками на косточке, которые хорошо охватывают и поддерживают грудь.",
+            "image": "goods_images/all-hp-categorycarousel-cw3124-1294newcolors-pink-int.jpg ",
+            "price": "5399,00",
+            "discount": "50,00",
+            "quantity": 13,
+            "category": 14
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 15,
+        "fields": {
+            "name": "Свитер женский",
+            "slug": "sviter-zhenskij",
+            "description": "Свитер женский, на молнии. Размер: L. Состав: 50% вискоза, 30% полиэстер, 20% нейлон. Рекомендации по уходу указаны на бирке изделия.",
+            "image": "goods_images/459d105b_b37a_11ee_a063_9440c9a6d57d_f9db1027_2c7d_11ef_8583_00165d0a5905.jpg ",
+            "price": "15000,00",
+            "discount": "5.00",
+            "quantity": 2,
+            "category": 14
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 16,
+        "fields": {
+            "name": "Рубашка женская, черная, домашняя",
+            "slug": "rubashka-zhenskaya-domashnyaya",
+            "description": "Рубашка женская домашняя, с длинным рукавом. Размер: L. Состав: 100% полиэстер. Рекомендации по уходу указаны на бирке изделия.",
+            "image": "goods_images/9380877d_173d_11ee_a053_9440c9a6d57d_f31a4ade_b38c_11ee_a063_9440c9a6d57d.jpg ",
+            "price": "5700,00",
+            "discount": "0.00",
+            "quantity": 8,
+            "category": 14
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 17,
+        "fields": {
+            "name": "Мельница для специй, 20 см, 2 шт",
+            "slug": "melnica-dlya-specij-20-sm-2-sht",
+            "description": "Мельница для специй. Размер: 20 см. Материал: нержавеющая сталь, акрил, пластик, керамика, медный провод, магнит. Работает от 6-ти батареек типа ААА (не поставляются в комплекте). Предназначена для помола соли, перца, и других сухих специй. Рекомендации по уходу: наружный корпус мельницы очищать мягкой влажной тканью. Не помещать в жидкость. Хранить в сухом месте.",
+            "image": "goods_images/e7841829_49af_11eb_a02f_9cdc71c2cdfd_664119a4_f077_11eb_a039_9cdc71c2cdfd.jpg",
+            "price": "3999,00",
+            "discount": "20.00",
+            "quantity": 47,
             "category": 7
         }
     },
     {
         "model": "goods.products",
-        "pk": 2,
+        "pk": 18,
         "fields": {
-            "name": "Чайный столик и два стула",
-            "slug": "chajnyj-stolik-i-dva-stula",
-            "description": "Набор из стола и двух стульев в минималистическом стиле.",
-            "image": "goods_images/set_of_tea_table_and_two_chairs.jpg",
-            "price": "93.00",
-            "discount": "2.50",
-            "quantity": 7,
+            "name": "Тажин, 25 см, 1,3 л, с крышкой, чугун/керамика, молочный, Roram",
+            "slug": "tazhin-25-sm-13-l-s-kryshkoj-chugunkeramika-molochnyj-roram",
+            "description": "Тажин, с крышкой. Объем: 1,3 л. Размер: 25x6 см. Материал: тажин - чугун с эмалевым покрытием; крышка - керамика. Изделие из чугуна подходит для использования на всех типах плит, в том числе индукционных. Чугунную посуду можно использовать в духовке - максимальная температура 280°С. Рекомендации по использованию и уходу: Перед первым применением промыть посуду и высушить, далее смазать внутреннюю поверхность растительным пищевым маслом и прогреть в течение нескольких минут на медленном огне. После остывания удалить остатки масла сухой тряпкой. Нельзя использовать с чугунной посудой металлические кухонные принадлежности, предпочтительны лопатки из силикона или дерева. Рекомендуется мыть вручную с применением мягких моющих средств. Не использовать для ухода абразивные чистящие средства и жесткие губки. Нельзя мыть в посудомоечной машине.",
+            "image": "goods_images/eb4fb96e_1a49_11ee_a053_9440c9a6d57d_557079b5_f75b_11ee_a06d_eeb30c7a4302.jpg",
+            "price": "6999,00",
+            "discount": "5.00",
+            "quantity": 24,
             "category": 7
         }
     },
     {
         "model": "goods.products",
-        "pk": 3,
+        "pk": 19,
         "fields": {
-            "name": "Двухспальная кровать",
-            "slug": "dvuhspalnaya-krovat",
-            "description": "Кровать двухспальная с надголовником и вообще очень ортопедичная.",
-            "image": "goods_images/double_bed.jpg",
-            "price": "670.00",
+            "name": "Терка, 18х10 см, с контейнером и сменными насадками, сталь/пластик, молочная",
+            "slug": "terka-18h10-sm-s-kontejnerom-i-smennymi-nasadkami-stalplastik-molochnaya",
+            "description": "ерка с контейнером и сменными насадками. Размер: 18х10х5 см. Материал: нержавеющая сталь, пластик. Рекомендуется мыть вручную с применением мягких моющих средств. Не использовать для ухода абразивные чистящие средства и жесткие губки. Можно мыть в посудомоечной машине. Хранить в недоступном для детей месте.",
+            "image": "goods_images/56640a40_539c_11ee_a057_9440c9a6d57d_b8963857_c5e9_11ee_a067_9440c9a6d57d.jpg ",
+            "price": "899.00",
             "discount": "0.00",
             "quantity": 5,
-            "category": 8
-        }
-    },
-    {
-        "model": "goods.products",
-        "pk": 4,
-        "fields": {
-            "name": "Кухонный стол с раковиной",
-            "slug": "kuhonnyj-stol-s-rakovinoj",
-            "description": "Кухонный стол для обеда с встроенной раковиной и стульями.",
-            "image": "goods_images/kitchen_table.jpg",
-            "price": "365.00",
-            "discount": "0.00",
-            "quantity": 11,
             "category": 7
         }
     },
     {
         "model": "goods.products",
-        "pk": 5,
+        "pk": 21,
         "fields": {
-            "name": "Кухонный стол с встройкой",
-            "slug": "kuhonnyj-stol-s-vstrojkoj",
-            "description": "Кухонный стол со встроенной плитой и раковиной. Много полок и вообще красивый.",
-            "image": "goods_images/kitchen_table_2.jpg",
-            "price": "430.00",
-            "discount": "5.00",
-            "quantity": 8,
-            "category": 7
-        }
-    },
-    {
-        "model": "goods.products",
-        "pk": 6,
-        "fields": {
-            "name": "Угловой диван для гостинной",
-            "slug": "uglovoj-divan-dlya-gostinnoj",
-            "description": "Угловой диван, раскладывается в двухспальную кровать, для гостинной и приема гостей самое то!",
-            "image": "goods_images/corner_sofa.jpg",
-            "price": "610.00",
-            "discount": "2.00",
-            "quantity": 8,
-            "category": 9
-        }
-    },
-    {
-        "model": "goods.products",
-        "pk": 7,
-        "fields": {
-            "name": "Прикроватный столик",
-            "slug": "prikrovatnyj-stolik",
-            "description": "Прикроватный столик с двумя выдвижными ящиками (цветок не входит в комплект).",
-            "image": "goods_images/bedside_table.jpg",
-            "price": "55.00",
+            "name": "Покрывало, 220х240 см, стеганое, вельвет/микрофибра, молочное",
+            "slug": "pokryvalo-220h240-sm-steganoe-velvetmikrofibra-molochnoe",
+            "description": "Покрывало, стеганое. Размер: 220х240 см. Состав: лицевая сторона-вельвет (100% полиэстер), обратная сторона-микрофибра (100% полиэстер), наполнитель - 100% полиэстер (100 г/м2). Рекомендации по уходу указаны на бирке изделия.",
+            "image": "goods_images/9d9902df_0443_11ee_a052_9440c9a6d57d_092d4bd4_9db6_11ee_a05d_9440c9a6d57d.jpg ",
+            "price": "8999.00",
             "discount": "0.00",
             "quantity": 6,
             "category": 8
@@ -99,72 +113,137 @@
     },
     {
         "model": "goods.products",
-        "pk": 8,
+        "pk": 22,
         "fields": {
-            "name": "Диван обыкновенный",
-            "slug": "divan-obyknovennyj",
-            "description": "Диван, он же софа обыкновенная, ничего примечательного для описания.",
-            "image": "goods_images/sofa.jpg",
-            "price": "190.00",
-            "discount": "5.00",
+            "name": "Покрывало, 220х240 см, стеганое, вельвет/микрофибра, зеленое",
+            "slug": "pokryvalo-220h240-sm-steganoe-velvetmikrofibra-zelenoe",
+            "description": "Покрывало стеганое. Размер: 220х240 см. Состав: лицевая сторона-вельвет (100% полиэстер), обратная сторона-микрофибра (100% полиэстер), наполнитель - 100% полиэстер (160 г/м2). Рекомендации по уходу указаны на бирке изделия.",
+            "image": "goods_images/e940c203_90d2_11ed_a050_9440c9a6d57d_44f2b9f6_f034_11ee_a06c_eeb30c7a4302.jpg ",
+            "price": "8999.00",
+            "discount": "10.50",
             "quantity": 5,
+            "category": 8
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 23,
+        "fields": {
+            "name": "Покрывало, 220х240 см, стеганое, вельвет/микрофибра, серое",
+            "slug": "pokryvalo-220h240-sm-steganoe-velvetmikrofibra-seroe",
+            "description": "Покрывало стеганое. Размер: 220х240 см. Состав: лицевая сторона-вельвет (100% полиэстер), обратная сторона-микрофибра (100% полиэстер), наполнитель - 100% полиэстер (160 г/м2). Рекомендации по уходу указаны на бирке изделия.",
+            "image": "goods_images/01cff086_90d3_11ed_a050_9440c9a6d57d_663e33c0_69cb_11ee_a058_9440c9a6d57d_yMJc43i.jpg ",
+            "price": "9999.00",
+            "discount": "5.00",
+            "quantity": 3,
+            "category": 8
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 24,
+        "fields": {
+            "name": "Кровать-7 с подъёмным основанием 1600 Капри",
+            "slug": "krovat-7-s-podyomnym-osnovaniem-1600-kapri",
+            "description": "Кровать-7 с подъёмным основанием 1600 Капри, Сатин,Сатин, ЛДСП",
+            "image": "goods_images/80581491c4ea4219b7591042aa1e20d6_hd.webp ",
+            "price": "99999.00",
+            "discount": "20.00",
+            "quantity": 5,
+            "category": 8
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 25,
+        "fields": {
+            "name": "Кровать-10 с подъёмным основанием 1800 Капри",
+            "slug": "krovat-10-s-podyomnym-osnovaniem-1800-kapri",
+            "description": "Кровать-10 с подъёмным основанием 1800 Капри, Сатин, ЛДСП",
+            "image": "goods_images/ad1dc07ff57ac563c52752b8176b69fc_hd.webp ",
+            "price": "89999.00",
+            "discount": "0.00",
+            "quantity": 5,
+            "category": 8
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 26,
+        "fields": {
+            "name": "КПБ евро, тенсель 300 TC, серо-коричневый",
+            "slug": "kpb-evro-tensel-300-tc-sero-korichnevyj",
+            "description": "Комплект постельного белья, евро. Состав: 100% тенсель (300 ТС). Комплектность: наволочка 50х70 см - 2 шт, пододеяльник 200х220 см, простыня 245х270 см. Рекомендации по уходу указаны на бирке изделия.",
+            "image": "goods_images/img_64e093baddca5.jpg ",
+            "price": "21999,00",
+            "discount": "10.00",
+            "quantity": 9,
+            "category": 8
+        }
+    },    {
+        "model": "goods.products",
+        "pk": 27,
+        "fields": {
+            "name": "Плед, 130х170 см, хлопок, серый, Node",
+            "slug": "pled-130h170-sm-hlopok-seryj-node",
+            "description": "Плед. Размер: 130х170 см. Материал: 100% полиэстер. Рекомендации по уходу указаны на бирке изделия.",
+            "image": "goods_images/94aaedbf_21a5_11ee_a053_9440c9a6d57d_c52fac88_885d_11ee_a05a_9440c9a6d57d.jpg ",
+            "price": "5999.00",
+            "discount": "10.00",
+            "quantity": 14,
             "category": 9
         }
-    },
-    {
+    },    {
         "model": "goods.products",
-        "pk": 9,
+        "pk": 28,
         "fields": {
-            "name": "Стул офисный",
-            "slug": "stul-ofisnyj",
-            "description": "Описание товара, про то какой он классный, но это стул, что тут сказать...",
-            "image": "goods_images/office_chair.jpg",
-            "price": "30.00",
-            "discount": "0.50",
-            "quantity": 35,
-            "category": 10
-        }
-    },
-    {
-        "model": "goods.products",
-        "pk": 10,
-        "fields": {
-            "name": "Растение",
-            "slug": "rastenie",
-            "description": "Растение для украшения вашего интерьера подарит свежесть и безмятежность обстановке.",
-            "image": "goods_images/plants.jpg",
-            "price": "10.00",
+            "name": "Ветка декоративная, 1,1 м, полиэстер, серая, Камыш",
+            "slug": "vetka-dekorativnaya-11-m-poliester-seraya-kamysh",
+            "description": "Ветка декоративная. Размер: 1,1 м. Материал: полиэстер, сталь, бумага. Предназначена для декорирования интерьера. Рекомендуется сухая чистка.",
+            "image": "goods_images/1f6c8db7_6966_11ed_a04e_9440c9a6d57d_04cab767_03a3_11ef_a06f_eeb30c7a4302.jpg ",
+            "price": "1290,00",
             "discount": "0.00",
-            "quantity": 17,
+            "quantity": 100,
             "category": 12
         }
-    },
-    {
+    },    {
         "model": "goods.products",
-        "pk": 11,
+        "pk": 29,
         "fields": {
-            "name": "Цветок стилизированный",
-            "slug": "cvetok-stilizirovannyj",
-            "description": "Дизайнерский цветок (возможно искусственный) для украшения интерьера.",
-            "image": "goods_images/flower.jpg",
-            "price": "15.00",
-            "discount": "0.00",
-            "quantity": 17,
-            "category": 12
+            "name": "Диван Monofix Амма-18 100x82x61 см велюр цвет бежевый",
+            "slug": "divan-monofix-amma-18-100x82x61-sm-velyur-cvet-bezhevyj",
+            "description": "Диван АММА с налетом классики, придаст изысканности интерьеру квартиры, дополнит обеденную зону кухни, зону отдыха на веранде или лоджии. Обивка в ткани велюр создаст уютную атмосферу и позволит комфортно провести время вашим клиентам в зоне ожидания офиса, салона красоты, гостиницы, кафе.",
+            "image": "goods_images/90860990.webp ",
+            "price": "11200,00",
+            "discount": "5.00",
+            "quantity": 8,
+            "category": 9
         }
-    },
-    {
+    },    {
         "model": "goods.products",
-        "pk": 12,
+        "pk": 30,
         "fields": {
-            "name": "Прикроватный столик 2",
-            "slug": "prikrovatnyj-stolik-2",
-            "description": "Столик, довольно странный на вид, но подходит для размещения рядом с кроватью.",
-            "image": "goods_images/strange_table.jpg",
-            "price": "25.00",
-            "discount": "90.00",
-            "quantity": 10,
-            "category": 8
+            "name": "Полотенце, 70х140 см, хлопок, белое",
+            "slug": "polotence-70h140-sm-hlopok-beloe",
+            "description": "Полотенце. Размер: 70х140 см. Состав: 100% хлопок (500 г/м2). Рекомендации по уходу указаны на бирке изделия.",
+            "image": "goods_images/img_63e3840ae7113.jpg",
+            "price": "2199,00",
+            "discount": "0.00",
+            "quantity": 79,
+            "category": 15
+        }
+    },    {
+        "model": "goods.products",
+        "pk": 31,
+        "fields": {
+            "name": "Ваза для цветов, 30 см, стекло, с золотистым кантом",
+            "slug": "vaza-dlya-cvetov-30-sm-steklo-s-zolotistym-kantom",
+            "description": "Ваза для цветов. Размер: 8x30 см. Материал: стекло. Рекомендуется мыть вручную с применением мягких моющих средств. Не использовать для ухода абразивные чистящие средства и жёсткие губки. Беречь от механических повреждений.",
+            "image": "goods_images/b7b47445_1549_11ec_a03a_9cdc71c2cdfd_9cc3b3a9_02dd_11ef_a06f_eeb30c7a4302.jpg ",
+            "price": "1199,00",
+            "discount": "1.00",
+            "quantity": 50,
+            "category": 12
         }
     }
 ]

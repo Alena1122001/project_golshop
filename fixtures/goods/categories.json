@@ -33,26 +33,26 @@
     },
     {
         "model": "goods.categories",
-        "pk": 10,
-        "fields": {
-            "name": "Офис",
-            "slug": "ofis"
-        }
-    },
-    {
-        "model": "goods.categories",
-        "pk": 11,
-        "fields": {
-            "name": "Фурнитура",
-            "slug": "furnitura"
-        }
-    },
-    {
-        "model": "goods.categories",
         "pk": 12,
         "fields": {
             "name": "Декор",
             "slug": "dekor"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 14,
+        "fields": {
+            "name": "Одежда и обувь",
+            "slug": "odezhda-i-obuv"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 15,
+        "fields": {
+            "name": "Ванная",
+            "slug": "vannaya"
         }
     }
 ]
