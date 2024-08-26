@@ -1,6 +1,6 @@
 Проект на фреймворке Django
 
-Выгрузите репозиторий командой git clone https://github.com/Alena1122001/project-golshop
+Выгрузите репозиторий командой git clone https://github.com/Alena1122001/project_golshop
 
 В этом репозитории отсутствует виртуальное окружение, поставьте его командой python -m venv venv
 
